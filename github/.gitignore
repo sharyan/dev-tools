@@ -1,0 +1,5 @@
+!.gitgnore
+!./*.sh
+!./repo_index.txt
+
+*/*
